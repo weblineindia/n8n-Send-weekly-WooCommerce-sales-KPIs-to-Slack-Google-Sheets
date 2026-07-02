@@ -1,0 +1,2 @@
+# n8n-Send-weekly-WooCommerce-sales-KPIs-to-Slack-Google-Sheets
+Turn weekly WooCommerce data into actionable sales insights automatically. This n8n workflow automation calculates KPIs like revenue, orders, refunds, average order value, and top products, archives each report in Google Sheets, and shares a concise Slack summary making this n8n workflow ideal for recurring eCommerce performance reporting.
